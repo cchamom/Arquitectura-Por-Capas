@@ -1,4 +1,3 @@
-```markdown
 # ArquitecturaCapas - API REST con ASP.NET Core y SQLite
 
 Una aplicación web desarrollada bajo una **Arquitectura en Capas** estricta con **ASP.NET Core 8**, aplicando el Patrón Repository, Inyección de Dependencias, Entity Framework Core y persistencia de datos local con **SQLite**.
