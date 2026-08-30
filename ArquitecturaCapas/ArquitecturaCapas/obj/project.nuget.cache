@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ejq+LysYOec=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Christian Chamo\\Desktop\\ArquitecturaCapas\\ArquitecturaCapas\\ArquitecturaCapas\\ArquitecturaCapas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christian Chamo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\Christian Chamo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Christian Chamo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
