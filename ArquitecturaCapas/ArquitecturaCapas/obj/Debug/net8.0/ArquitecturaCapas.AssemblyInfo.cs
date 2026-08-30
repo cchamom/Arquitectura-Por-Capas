@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArquitecturaCapas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e48f5b9849851466062159a4478efabb2fad68d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07c88c1b2062f5478b52fd2584872778da1de4a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArquitecturaCapas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArquitecturaCapas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
